@@ -1,0 +1,16 @@
+body {
+    color: #666;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    color: #111;
+}
+
+.header .pure-menu {
+    border-bottom-color: black;
+    border-radius: 0;
+}
+
+.pure-menu-link {
+    padding: 1em .7em;
+}
