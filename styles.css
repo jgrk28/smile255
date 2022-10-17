@@ -29,6 +29,10 @@ h1,h2,h3,h4,h5,h6 {
     text-shadow: 0 1px 1px black;
 }
 
+.translate-button {
+    margin: 15px 15px 15px auto;
+}
+ 
 .content {
     margin: 0 auto;
     padding: 0 2em;
